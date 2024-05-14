@@ -1,6 +1,6 @@
 ## Hi! I make cool things.
 
-Whether it be software, music, or games, I like to 
+Whether it be software, music, or games, I enjoy the never-ending process of tinkering.
 
 ### Current Project
 
