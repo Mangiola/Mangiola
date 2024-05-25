@@ -1,4 +1,4 @@
-### Hi! I make cool things.
+![title](assets/hi.png)
 
 Whether it's software, music, or games, I enjoy the never-ending process of tinkering.
 
