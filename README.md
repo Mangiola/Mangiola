@@ -1,10 +1,6 @@
 ![title](assets/hi.png)
 
-Whether it's software, music, or games, I enjoy the never-ending process of tinkering.
-
-### Currently Working On
-
-I'm learning and exploring the [Godot game engine](https://godotengine.org/).
+Whether it's software, music, or games, I enjoy the never-ending process of tinkering. I'm learning and exploring the [Godot game engine](https://godotengine.org/).
 
 ### My Projects
 
