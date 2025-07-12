@@ -1,6 +1,4 @@
-![title](assets/hi.png)
-
-Whether it's software, music, or games, I enjoy the never-ending process of tinkering. I'm currently splitting my time between learning the [Godot game engine](https://godotengine.org/) and keeping up to date with the newest [NextJS](https://nextjs.org/) updates.
+Currently splitting my time between learning the [Godot game engine](https://godotengine.org/) and keeping up to date with the newest [SvelteKit](https://github.com/sveltejs/kit) updates.
 
 ### My Projects
 
